@@ -96,7 +96,7 @@ GROUP BY YEAR (order_date)
 	FROM Yearly_revenue
 ;
 ```
-### Results/ Findings
+### Findings
 The analysis results are summarized as follows;
 
 - Total Revenue generated over 4 years: $2.29M.
