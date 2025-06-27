@@ -145,4 +145,6 @@ The analysis results are summarized as follows;
 ### Conclusion
   The past four years paint a compelling picture of resilience and opportunity for the superstore. Despite the seismic shock of a global pandemic and the ripple effects of geopolitical instability, the company has demonstrated an underlying strength, culminating in a total revenue of $2.29M. While external forces introduced periods of contraction, the remarkable 29% surge in 2021 stresses the potential for significant growth when conditions align.  The insights gathered are not merely historical data points, but crucial indications guiding the journey of Annie Store towards a more resilient and prosperous future.
 
+Click [here](https://medium.com/@obendeefi/annie-superstore-sales-analysis-2019-2022-8d4488308165?source=user_profile_page---------0-------------324819dc805e----------------------) for more info and to view the Dashboard!
+
 
